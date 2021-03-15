@@ -6,7 +6,7 @@ randint.sh is a bash script that can generate a random integer in a set range. E
 
 1. Clone the Repository
 2. `cd randint`
-3. `chmod 755 randint.sh`
+3. If the script is not executable already, `chmod 755 randint.sh`
 4. `./randint.sh`
 
 The script takes in at least one argument. More information can be found in the help dialogue.
